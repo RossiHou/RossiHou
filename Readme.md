@@ -14,8 +14,8 @@ Spatial epidemiology
 
 Sustainable development
 
-# Favorite lines
-英雄ってのはさ, 英雄になろうとした瞬間に失格なのよ.--仮面ライダー龍騎
+# CV
+[https://drive.google.com/file/d/1LlZGztcu3hAE587F5JD4fGVP49c-VpXs/view?usp=sharing](Curriculum Vitae)
 
 <!--
 **RossiHou/RossiHou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

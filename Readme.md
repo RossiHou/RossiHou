@@ -14,8 +14,8 @@ Spatial epidemiology
 
 Sustainable development
 
-# CV
-[https://drive.google.com/file/d/1LlZGztcu3hAE587F5JD4fGVP49c-VpXs/view?usp=sharing](Curriculum Vitae)
+# Curriculum Vitae
+[CV](https://drive.google.com/file/d/1LlZGztcu3hAE587F5JD4fGVP49c-VpXs/view?usp=sharing)
 
 <!--
 **RossiHou/RossiHou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

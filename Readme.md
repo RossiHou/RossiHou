@@ -1,8 +1,6 @@
 # Introduction
 Hello, I'm Weitao Hou, a PhD student focusing on Geospatial theories and method development at Curtin University. Prior to this, I completed my MSc degree at the National University of Singapore and my BEng at Northwest Normal University.
 
-I describe myself as someone who enjoys exploring the geospatial domain. I aim to innovate new theories and methods for spatial prediction and factor exploration to contribute to sustainable development. While I can't guarantee that these methods will heal the world, I will contribute all my efforts and try to have fun here.
-
 Besides, I used to provide English listening and translation subtitle services for NBA videos, including official content, interviews, and post-game press conferences for players.
 
 PS1: I am a whisky nerd, I enjoy most of the Scotch and some of the Burbon. GlenDornoch 18 (BW edition) and Bookers burbon are my favorites!
